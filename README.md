@@ -2,7 +2,7 @@
 
 ## 🎯 Project Goal
 
-This analysis was conducted to **stress-test the predictive power of traditional credit risk models (FICO Score and Loan Grade)** against a large public lending portfolio (LendingClub). The primary objective was to identify and quantify systemic risk classification failures that present a direct opportunity for an **AI-driven lending platform (Upstart)** to drive partner profitability and minimize unexpected losses.
+This analysis was conducted to **stress-test the predictive power of traditional credit risk models (FICO Score and Loan Grade)** against a large public lending portfolio (LendingClub). The primary objective was to identify and quantify systemic risk classification failures that reveal a market inefficiency—presenting a clear opportunity for **next-generation FinTech and AI-driven lending platforms** to drive better pricing, improve model accuracy, and reduce unexpected losses across their partner networks.
 
 ---
 
