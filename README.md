@@ -43,7 +43,7 @@ The analysis found that while high-FICO borrowers ($\ge 750$) are generally safe
 This scatter plot visualizes the traditional bank pricing model (FICO drives rate) and highlights **all defaulted loans (red dots)**, proving that defaults occur across the entire spectrum, including the low-rate, high-FICO segment (the anomaly).
 
 
-<img width="500" height="500" alt="image" src="<img width="988" height="678" alt="image" src="https://github.com/user-attachments/assets/a055a44e-5a7d-4389-bfa5-7e0be5ef3ac1" />
+<img width="988" height="678" alt="image" src="https://github.com/user-attachments/assets/a055a44e-5a7d-4389-bfa5-7e0be5ef3ac1" />
 
 
 ### B. Loan Grade Risk (Baseline Check)
