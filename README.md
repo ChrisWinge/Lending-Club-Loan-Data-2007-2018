@@ -54,7 +54,7 @@ The overall default rate increases linearly with the loan grade (A is safest, G 
 ### C. Risk vs. Volume Side-by-Side (Judgment Check)
 This dual chart compares default risk and loan volume for a risky category (Educational loans), demonstrating the need to **check sample size** and avoid misleading trends from low-volume data.
 
-<img width="1107" height="463" alt="image" src="https://github.com/user-attachments/assets/43b4268c-06a8-4696-9a2e-0b86314037d5" />
+<img width="1102" height="457" alt="image" src="https://github.com/user-attachments/assets/4bd75980-c0b4-47a7-a784-c121f2c5bbe9" />
 
 ---
 
