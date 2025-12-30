@@ -49,12 +49,12 @@ This scatter plot visualizes the traditional bank pricing model (FICO drives rat
 ### B. Loan Grade Risk (Baseline Check)
 The overall default rate increases linearly with the loan grade (A is safest, G is riskiest), confirming the bank's general model works.
 
-
+<img width="976" height="604" alt="image" src="https://github.com/user-attachments/assets/975d44d9-5f8b-4f09-a8e6-bc284ce5caa7" />
 
 ### C. Risk vs. Volume Side-by-Side (Judgment Check)
 This dual chart compares default risk and loan volume for a risky category (Educational loans), demonstrating the need to **check sample size** and avoid misleading trends from low-volume data.
 
-
+<img width="1107" height="463" alt="image" src="https://github.com/user-attachments/assets/43b4268c-06a8-4696-9a2e-0b86314037d5" />
 
 ---
 
